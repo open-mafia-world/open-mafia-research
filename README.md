@@ -16,7 +16,7 @@ The studies use the sports Mafia format: a table of 10 players (1 don, 2 mafia, 
 
 | Study | Topic | Date | Authors |
 |---|---|---|---|
-| *No studies published yet* | | | |
+| [Winning versus judging](research/win-vs-judging/) | How win rate and judge scores relate to reaching the top‑3 and top half of a tournament in 5 federations | 2026-09 | Anatolii Dudko |
 
 ## Structure
 
